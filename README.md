@@ -11,7 +11,7 @@
  1. Run the script using Python
 
     ```
-    python todo,py
+    python todo.py
     ```
 2. Follow the on-screen prompts to add, delete, or view tasks.
 
